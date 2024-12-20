@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @kamesh
-- 👀 I’m interested in web Developnment
-- 🌱 I’m currently learning computer science & Business Systems
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Kamesh P  
 
-<!---
-kameshp1815/kameshp1815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 About Me  
+👨‍💻 **Passionate Programmer** | 💡 **Innovative Thinker** | 📚 **Lifelong Learner**  
+
+I’m currently pursuing **B.Tech in Computer Science and Business Systems** at **KIT Kalaignarkarunanidhi Institute of Technology**. My journey in tech is driven by my enthusiasm for **Web Development**, **IoT Projects**, and **Creative Problem-Solving**. I thrive on turning ideas into impactful solutions, and I'm always eager to learn, grow, and collaborate on innovative projects.  
+
+🌱 **Currently Exploring:** Full-Stack Development using **React Libraries** 
+  
+
+## 💻 Skills & Expertise  
+
+### 🌐 **Web Development**  
+- **Frontend:** HTML5, CSS3, JavaScript, React.js  
+- **Backend:** PHP, SQL  
+- **Frameworks & Tools:** Bootstrap, jQuery, Material-UI  
+
+### 🤖 **Programming & Problem Solving**  
+- **Languages:** Python, C, C++  
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, DBMS  
