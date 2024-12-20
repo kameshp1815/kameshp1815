@@ -1,3 +1,6 @@
+<p align ="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72469&width=435&lines=Hey%2C+I'm+Kamesh.+You+are+Welcome" alt="Typing SVG" /></a>
+</p>
 # 👋 Hi, I’m Kamesh P  
 
 ## 🌟 About Me  
