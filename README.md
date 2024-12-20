@@ -12,9 +12,8 @@ I’m currently pursuing **B.Tech in Computer Science and Business Systems** at 
 
 ### 🌐 **Web Development**  
 - **Frontend:** HTML5, CSS3, JavaScript, React.js  
-- **Backend:** PHP, SQL  
-- **Frameworks & Tools:** Bootstrap, jQuery, Material-UI  
+- **Backend:** PHP, SQL    
 
 ### 🤖 **Programming & Problem Solving**  
 - **Languages:** Python, C, C++  
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, DBMS  
+- **Concepts:** Object-Oriented Programming (OOPS), Data Structures & Algorithms, DBMS  
