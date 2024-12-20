@@ -1,7 +1,6 @@
 <p align ="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72469&width=435&lines=Hey%2C+I'm+Kamesh.+You+are+Welcome" alt="Typing SVG" /></a>
-</p>
-# 👋 Hi, I’m Kamesh P  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=1000&color=F72469&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Kamesh.+You+are+Welcome+%F0%9F%A4%9D" alt="Typing SVG" /></a></p>
+ 
 
 ## 🌟 About Me  
 👨‍💻 **Passionate Programmer** | 💡 **Innovative Thinker** | 📚 **Lifelong Learner**  
