@@ -19,4 +19,9 @@ I’m currently pursuing **B.Tech in Computer Science and Business Systems** at 
 
 ### 🤖 **Programming & Problem Solving**  
 - **Languages:** Python, C, C++  
-- **Concepts:** Object-Oriented Programming (OOPS), Data Structures & Algorithms, DBMS  
+- **Concepts:** Object-Oriented Programming (OOPS), Data Structures & Algorithms, DBMS
+
+## 📫 Connect with Me  
+📧 *Email:* [kameshkamesh3876@gmail.com](mailto:kameshkamesh3876@gmail.com)  
+📍 *Location:* Tenkasi, Tamil Nadu  
+🔗 *[LinkedIn](https://www.linkedin.com/in/kamesh-p-8049082b3/)* | *[CodeChef](https://www.codechef.com/users/kamesh08)* | *[LeetCode](https://leetcode.com/u/kameshkamesh3876/)* |
