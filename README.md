@@ -14,8 +14,8 @@ I’m currently pursuing **B.Tech in Computer Science and Business Systems** at 
 ## 💻 Skills & Expertise  
 
 ### 🌐 **Web Development**  
-- **Frontend:** HTML5, CSS3, JavaScript, React.js  
-- **Backend:** PHP, SQL    
+- **Frontend:** HTML5, CSS3, JavaScript. 
+   
 
 ### 🤖 **Programming & Problem Solving**  
 - **Languages:** Python, C, C++  
