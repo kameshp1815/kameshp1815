@@ -1,27 +1,114 @@
-<p align ="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Berkshire+Swash&weight=500&size=30&pause=1000&color=F71907&width=700&lines=%F0%9F%91%8B+Hey%2C+I'm+Kamesh%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93.+You+are+Welcome%F0%9F%A4%9D" alt="Typing SVG" /></a>
+<h1 align="center">Hi 👋, I'm Kamesh</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Building Scalable Apps with React, Node.js & MySQL</h3>
+
+- 🔭 I’m currently working on **Auto Share & Pooling System** and a full-fledged **E-commerce Store**.
+- 👯 I’m looking to collaborate on full-stack web projects solving real-world problems.
+- 🤝 I’m open to freelance and open-source opportunities.
+- 🌱 I’m currently learning **Prisma ORM, PostgreSQL, and Razorpay Integration**.
+- 💬 Ask me about **React, Node.js, MySQL, REST APIs, and modern UI/UX (Glassmorphism & Neomorphism)**.
+- ⚡ Fun fact: I love turning complex features into clean UIs with meaningful user experiences.
+
+---
+
+## 🌐 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
- 
 
-## 🌟 About Me  
-👨‍💻 **Passionate Programmer** | 💡 **Innovative Thinker** | 📚 **Lifelong Learner**  
+---
 
-I’m currently pursuing **B.Tech in Computer Science and Business Systems** at **KIT Kalaignarkarunanidhi Institute of Technology**. My journey in tech is driven by my enthusiasm for **Web Development**, **IoT Projects**, and **Creative Problem-Solving**. I thrive on turning ideas into impactful solutions, and I'm always eager to learn, grow, and collaborate on innovative projects.  
+## 💻 Tech Stack
 
-🌱 **Currently Exploring:** Full-Stack Development using **MERN Stack** 
-  
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&l<h1 align="center">Hi 👋, I'm Kamesh</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Building Scalable Apps with React, Node.js & MySQL</h3>
 
-## 💻 Skills & Expertise  
+- 🔭 I’m currently working on **Auto Share & Pooling System** and a full-fledged **E-commerce Store**.
+- 👯 I’m looking to collaborate on full-stack web projects solving real-world problems.
+- 🤝 I’m open to freelance and open-source opportunities.
+- 🌱 I’m currently learning **Prisma ORM, PostgreSQL, and Razorpay Integration**.
+- 💬 Ask me about **React, Node.js, MySQL, REST APIs, and modern UI/UX (Glassmorphism & Neomorphism)**.
+- ⚡ Fun fact: I love turning complex features into clean UIs with meaningful user experiences.
 
-### 🌐 **Web Development**  
-- **Frontend:** HTML5, CSS3, JavaScript. 
-   
+---
 
-### 🤖 **Programming & Problem Solving**  
-- **Languages:** Python, C, C++  
-- **Concepts:** Object-Oriented Programming (OOPS), Data Structures & Algorithms, DBMS
+## 🌐 Connect with me
 
-## 📫 Connect with Me  
-📧 *Email:* [kameshkamesh3876@gmail.com](mailto:kameshkamesh3876@gmail.com)  
-📍 *Location:* Theni, Tamil Nadu  
-🔗 *[LinkedIn](https://www.linkedin.com/in/kamesh-p-8049082b3/)* | *[CodeChef](https://www.codechef.com/users/kamesh08)* | *[LeetCode](https://leetcode.com/u/kameshkamesh3876/)* |
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" height="200" />
+</p>
+ogoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kameshp1815&show_icons=true&theme=dark" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" height="200" />
+</p>
